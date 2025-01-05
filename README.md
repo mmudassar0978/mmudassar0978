@@ -5,7 +5,6 @@
 As a fresher, I'm currently building expertise in:
 
 Version Control: Git, GitHub
-
 CI/CD Basics: GitHub Actions, Jenkins (beginner projects)
 Cloud Platforms: AWS (basic setups), Azure (learning phase)
 Containerization: Docker (fundamentals)
